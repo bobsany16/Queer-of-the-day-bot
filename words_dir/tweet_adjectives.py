@@ -56,8 +56,8 @@ adjectives = [
     'hilarious',
     'whimsical',
     'ludicrous',
-    'Adorable ',
-    'Fantastic',
+    'adorable ',
+    'fantastic',
 
     # touch feels
     'fuzzy',
@@ -233,7 +233,7 @@ adjectives = [
     'sage',
     'emerald',
     'sapphire',
-    'arsenic',
+    'arsenic-colored',
     'fallow',
     'royal',
     'tuscany',
@@ -300,4 +300,7 @@ adjectives = [
     'cloudy',
     'stormy',
     'frozen',
+    
+    # adverb and adjective pairs
+    'perfectly splendid',
     ]

@@ -64,22 +64,22 @@ nouns = [
     'parrot 🦜',
     'hedgehog 🦔',
     'duck 🦆',
-    'rhino',
+    'rhino 🦏',
     'trilobite',
     'velociraptor',
     'elephant',
-    'buffalo',
-    'sheep',
+    'buffalo 🐃',
+    'sheep 🐑',
     'otter',
     'wolf',
     'kookaburra',
     'puffin 🐧',
-    'Dog',
+    'Dog 🐶',
     'cat',
     'Bird',
-    'Bat',
+    'Bat 🦇',
     'Cow',
-    'Giraffe',
+    'Giraffe 🦒',
 
     # clothing items
     'flannel shirt',
@@ -269,6 +269,7 @@ nouns = [
     'software',
     'socket',
     'port',
+    'ethernet cable',
 
     # old tech
     'iMac G3',
@@ -356,7 +357,8 @@ nouns = [
     'desert',
     'sleet',
     'stars',
-    
+    'beach 🏖',
+
     # classroom objects
     'pencil',
     'pen',
@@ -432,6 +434,7 @@ nouns = [
     'null bus',
     'null haus',
     'ladle',
+    'surprise casserole',
     'pink bra strap',
     'mysterious piñata hanging in a hallway',
     'automatic kitty litter box',
@@ -521,4 +524,8 @@ nouns = [
     'volley ball net',
     'water polo',
     'chess board',
+    'hula hoops',
+    'batting gloves',
+    'badminton net',
+
 ]
